@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCodeDPDay1Program1", "LeetCodeDPDay1Program1\LeetCodeDPDay1Program1.csproj", "{FE002FA6-5B97-44E6-B2F9-AC209A68EDFB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCodeDPDay1Program1", "LeetCodeDPDay1Program1\LeetCodeDPDay1Program1.csproj", "{FE002FA6-5B97-44E6-B2F9-AC209A68EDFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCodeDPDay1Program2", "LeetCodeDPDay1Program2\LeetCodeDPDay1Program2.csproj", "{611B9171-ADFE-4AAC-B464-FC0B1106F1FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCodeDPDay1Program2", "LeetCodeDPDay1Program2\LeetCodeDPDay1Program2.csproj", "{611B9171-ADFE-4AAC-B464-FC0B1106F1FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCodeDPDay2Program1", "LeetCodeDPDay2Program1\LeetCodeDPDay2Program1.csproj", "{A6B5FC2B-ABBB-43D0-B65F-5122AEC856C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCodeDPDay2Program2", "LeetCodeDPDay2Program2\LeetCodeDPDay2Program2.csproj", "{EAF8E637-A0BD-4AEA-B719-B0E88BE6F8F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{611B9171-ADFE-4AAC-B464-FC0B1106F1FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{611B9171-ADFE-4AAC-B464-FC0B1106F1FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{611B9171-ADFE-4AAC-B464-FC0B1106F1FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6B5FC2B-ABBB-43D0-B65F-5122AEC856C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6B5FC2B-ABBB-43D0-B65F-5122AEC856C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6B5FC2B-ABBB-43D0-B65F-5122AEC856C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6B5FC2B-ABBB-43D0-B65F-5122AEC856C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAF8E637-A0BD-4AEA-B719-B0E88BE6F8F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAF8E637-A0BD-4AEA-B719-B0E88BE6F8F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAF8E637-A0BD-4AEA-B719-B0E88BE6F8F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAF8E637-A0BD-4AEA-B719-B0E88BE6F8F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
