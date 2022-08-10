@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Trap(new int[] { 0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1 }));
+            Console.WriteLine(Trap(new int[] { 1, 0, 3, 0, 2 }));
             Console.ReadLine();
         }
 
@@ -33,6 +33,7 @@
                     {
                         totalWater += maxLeft - height[left];
                     }
+
                     left++;
                 }
                 else
@@ -45,6 +46,7 @@
                     {
                         totalWater += maxRight - height[right];
                     }
+
                     right--;
                 }
             }
